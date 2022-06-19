@@ -1,4 +1,4 @@
-##  Aoba! Eu sou o Matheus Matos👋
+##  How it's going! I am Matheus Matos👋
 
 - 👀 I’m currently in university
 - 🌱 studying Java Script e Python
