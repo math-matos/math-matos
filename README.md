@@ -1,7 +1,8 @@
 ##  Aoba! Eu sou o Matheus Matos👋
 
-- 👀 Atualmente estou cursando a faculdade
-- 🌱 Estudando Java Script e Python
+- 👀 I’m currently in university
+- 🌱 studying Java Script e Python
+- 💬 Ask me about: tech, games, movies
 
 <div align="center">
   <a href="https://github.com/math-matos">
