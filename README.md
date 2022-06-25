@@ -27,6 +27,8 @@
  <a href="https://tiktok.com" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomathmatos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mathmatos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2LPKFrZTDplXZeEgNvKCjE?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
  
   ![Snake animation](https://github.com/math-matos/math-matos/blob/output/github-contribution-grid-snake.svg)
  
