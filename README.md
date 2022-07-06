@@ -1,7 +1,7 @@
 ##  How it's going! I am Matheus Matos👋
 
 - 👀 I’m currently in university
-- 🌱 studying Java Script e Python
+- 🌱 studying Java Script and React
 - 💬 Ask me about: tech, games, movies
 
 <div align="center">
