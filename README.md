@@ -1,6 +1,6 @@
 ##  How it's going! I am Matheus Matos👋
 
-- 👀 I’m currently in university</p>
+- 👀 I’m currently in university
 - 🌱 studying Java Script and React
 - 💬 Ask me about: tech, games, movies
 
