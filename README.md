@@ -2,7 +2,7 @@
 
 - 👀 I’m currently in university
 - 🌱 studying Java Script and React
-- 💬 Ask me about: tech, games, movies
+- 💬 Ask me about: tech, games, series/animes
 
 <div align="center">
   <a href="https://github.com/math-matos">
