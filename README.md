@@ -20,7 +20,7 @@
   <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="math-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/988524143400067084/988525559975927848/5e7141d5ff2527819f68b3fb907cb59f.jpg">
+  <img align="right" alt="math-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/988524143400067084/996844148600623294/Ikuya_Kirishima.gif">
     
 </div>
   
