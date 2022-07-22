@@ -36,5 +36,14 @@
     
  
   ![Snake animation](https://github.com/math-matos/math-matos/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/224vyj45r2svhsxbufggxfz2q">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=224vyj45r2svhsxbufggxfz2q&count=4" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
