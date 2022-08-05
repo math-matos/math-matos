@@ -38,7 +38,6 @@ These are some of the technologies and tools I work with:
   
 </div>
   
-  ##
   
 💬 Follow my Socials:
   
