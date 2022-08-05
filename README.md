@@ -19,7 +19,7 @@
 
 These are some of the technologies and tools I work with:
     
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://www.linkedin.com/in/mathmatos/)
   
     
 </div>
