@@ -20,7 +20,7 @@
 These are some of the technologies and tools I work with:
     
   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://skillicons.dev)
-  <img align="right" alt="math-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/988524143400067084/988525559975927848/5e7141d5ff2527819f68b3fb907cb59f.jpg">
+  
     
 </div>
 
