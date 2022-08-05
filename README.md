@@ -18,14 +18,8 @@
 <h3>⚡ Tecnologias: </h3>
 
 These are some of the technologies and tools I work with:
-
-<div style="display: inline_block"><br>
     
-  <img align="center" alt="math-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="math-Ts" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-  <img align="center" alt="math-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img align="center" alt="math-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="math-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://skillicons.dev)
   <img align="right" alt="math-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/988524143400067084/988525559975927848/5e7141d5ff2527819f68b3fb907cb59f.jpg">
     
 </div>
@@ -33,7 +27,7 @@ These are some of the technologies and tools I work with:
 <h3>📈 My Statistics </h3>
 
 <div align="center">
-  <a href="https://github.com/math-matos">
+  <a href="https://www.linkedin.com/in/mathmatos/">
   <img height="156em" src="https://github-readme-stats.vercel.app/api?username=math-matos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-matos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
