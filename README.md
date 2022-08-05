@@ -27,9 +27,13 @@ These are some of the technologies and tools I work with:
 <h3>📈 My Statistics </h3>
 
 <div align="center">
+
+| My Statistics  |  Principal Languages  |
+| ------------------- | ------------------- |
+|  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=math-matos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> |  <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-matos&layout=compact&langs_count=7&theme=algolia"/> |
+
+
   <a href="https://www.linkedin.com/in/mathmatos/">
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=math-matos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-matos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
 </div>
