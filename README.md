@@ -12,7 +12,9 @@
 <h3>📊 Goals 2022: </h3>
 
 - 📂 expand my horizons creating projects
+
 - 🤝 Help persons in open-source
+
 - 📈 Influence people to become the best they can be
 
 <h3>⚡ Tecnologias: </h3>
