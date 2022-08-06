@@ -5,7 +5,7 @@
 
 *I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.*
 
-- 👀 I’m currently in university
+- 👀 I’m currently in university studying computer engineering
 - 🌱 studying Java Script and React
 - 💬 Ask me about: tech, games, series
 
