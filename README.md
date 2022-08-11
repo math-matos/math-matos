@@ -1,7 +1,7 @@
 <h1 align="center"> How it's going?! <br/>I am Matheus Matos👋</h1>
 <p align="center"> Software Engineer </p>
 
-<h3>🌻 About me: </h3>
+<h3>🎉 About me: </h3>
 
 *I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.*
 
@@ -9,7 +9,7 @@
 - 🌱 studying Java Script and React
 - 💬 Ask me about: tech, games, series
 
-<h3>📊 Goals 2022: </h3>
+<h3>🎯 Goals 2022: </h3>
 
 - 📂 expand my horizons creating projects
 
