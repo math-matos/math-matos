@@ -17,7 +17,7 @@
 
 - 📈 Influence people to become the best they can be
 
-<h3>⚡ Tecnologias: </h3>
+<h3>⚡ Languages: </h3>
 
 These are some of the technologies and tools I work with:
     
