@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<p align="center"><i>I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.<i></p>
+<p><i>I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.<i></p>
 
 <ul>
     <li>👀 I’m currently in university graduating in computer engineering</li>
@@ -21,11 +21,13 @@
     <li>📈 Influence people to become the best they can be</li>
    </ul>
 
+    
 <h3 align="center">⚡ Languages: </h3>
 
-These are some of the technologies and tools I work with:
+<div align="center">
+    <strong>These are some of the technologies and tools I work with: </strong>
     
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://www.linkedin.com/in/mathmatos/)
+  <br>[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://www.linkedin.com/in/mathmatos/)
   
     
 </div>
