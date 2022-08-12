@@ -1,23 +1,27 @@
 <h1 align="center"> How it's going?! <br/>I am Matheus Matos👋</h1>
 <p align="center"> Software Engineer </p>
 
-<h3>🎉 About me: </h3>
+<h3 align="center">🎉 About me: </h3>
 
-*I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.*
+<p align="center">
 
-- 👀 I’m currently in university graduating in computer engineering
-- 🌱 studying Java Script and React
-- 💬 Ask me about: tech, games, series
+<p align="center"><i>I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.<i></p>
 
-<h3>🎯 Goals 2022/23: </h3>
+<ul>
+    <li>👀 I’m currently in university graduating in computer engineering</li>
+    <li>🌱 studying Java Script and React</li>
+    <li>💬 Ask me about: tech, games, series</li>
+   </ul>
 
-- 👨‍💻 achieve my first job!
+<h3 align="center">🎯 Goals 2022/23: </h3>
+    
+<ul>
+    <li>👨‍💻 achieve my first job!</li>
+    <li>🤝 Help persons in open-source projects</li>
+    <li>📈 Influence people to become the best they can be</li>
+   </ul>
 
-- 🤝 Help persons in open-source projects
-
-- 📈 Influence people to become the best they can be
-
-<h3>⚡ Languages: </h3>
+<h3 align="center">⚡ Languages: </h3>
 
 These are some of the technologies and tools I work with:
     
@@ -26,7 +30,7 @@ These are some of the technologies and tools I work with:
     
 </div>
 
-<h3>📈 My Statistics </h3>
+<h3 align="center">📈 My Statistics </h3>
 
 <div align="center">
 
@@ -41,9 +45,9 @@ These are some of the technologies and tools I work with:
 </div>
   
   
-💬 Follow my Socials:
+<h3 align="center">💬 Follow my Socials: </h3>
   
-  <div>
+  <div align="center">
   <a href = "mailto:contatomathmatos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
   <a href="https://www.linkedin.com/in/mathmatos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  	<a href="https://www.twitch.tv/mathzfps_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
