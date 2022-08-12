@@ -9,7 +9,7 @@
 - 🌱 studying Java Script and React
 - 💬 Ask me about: tech, games, series
 
-<h3>🎯 Goals 2022: </h3>
+<h3>🎯 Goals 2022/23: </h3>
 
 - 📂 expand my horizons creating projects
 
