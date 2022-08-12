@@ -13,7 +13,7 @@
 
 - 👨‍💻 achieve my first job!
 
-- 🤝 Help persons in open-source
+- 🤝 Help persons in open-source projects
 
 - 📈 Influence people to become the best they can be
 
