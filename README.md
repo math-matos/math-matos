@@ -11,7 +11,7 @@
 
 <h3>🎯 Goals 2022/23: </h3>
 
-- 📂 expand my horizons creating projects
+- 👨‍💻 achieve my first job!
 
 - 🤝 Help persons in open-source
 
