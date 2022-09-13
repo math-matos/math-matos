@@ -1,4 +1,4 @@
-<h1 align="center"> How it's going?! <br/>I am Matheus Matos👋</h1>
+<h1 align="center"> Hows it going?! <br/>I am Matheus Matos👋</h1>
 <p align="center"> Software Engineer </p>
 
 <h3 align="center">🎉 About me: </h3>
@@ -17,7 +17,7 @@
     
 <ul>
     <li>👨‍💻 achieve my first job!</li>
-    <li>🤝 Help persons in open-source projects</li>
+    <li>🤝 Help people in open-source projects</li>
     <li>📈 Influence people to become the best they can be</li>
    </ul>
 
