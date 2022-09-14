@@ -1,4 +1,4 @@
-<h1 align="center"> Hows it going?! <br/>I am Matheus Matos👋</h1>
+<h1 align="center"> How's it going?! <br/>I am Matheus Matos👋</h1>
 <p align="center"> Software Engineer </p>
 
 <h3 align="center">🎉 About me: </h3>
