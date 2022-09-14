@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<p><i>I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.</i></p>
+<p align="center"><i>I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.</i></p>
 
 <ul>
     <li>👀 I’m currently in university graduating in computer engineering</li>
