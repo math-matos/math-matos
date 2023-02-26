@@ -8,7 +8,7 @@
 <p align="center"><i>I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.</i></p>
 
 <ul>
-    <li>👀 I’m currently in university graduating in computer engineering</li>
+    <li>👀 I’m currently in university graduating in Software engineering</li>
     <li>🌱 studying Java Script and React</li>
     <li>💬 Ask me about: tech, games, series</li>
    </ul>
