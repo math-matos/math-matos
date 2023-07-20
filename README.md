@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<p align="center"><i>I'm 18, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.</i></p>
+<p align="center"><i>I'm 19, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.</i></p>
 
 <ul>
     <li>👀 I’m currently in university graduating in Software engineering</li>
@@ -13,7 +13,7 @@
     <li>💬 Ask me about: tech, games, series</li>
    </ul>
 
-<h3 align="center">🎯 Goals 2022/23: </h3>
+<h3 align="center">🎯 Goals 2023/24: </h3>
     
 <ul>
     <li>👨‍💻 achieve my first job!</li>
@@ -27,7 +27,7 @@
 <div align="center">
     <strong>These are some of the technologies and tools I work with: </strong>
     
-  <br>[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://www.linkedin.com/in/mathmatos/)
+  <br>[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://www.linkedin.com/in/mathmatos/)
   
     
 </div>
