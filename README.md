@@ -27,7 +27,7 @@
 <div align="center">
     <strong>These are some of the technologies and tools I work with: </strong>
     
-  <br>[![My Skills](https://skillicons.dev/icons?i=js,react,ts,mysql,nextjs,materialui,nodejs,sass,tailwind)](https://www.linkedin.com/in/mathmatos/)
+  <br>[![My Skills](https://skillicons.dev/icons?i=js,react,ts,mysql,nextjs,materialui,nodejs,python,tailwind)](https://www.linkedin.com/in/mathmatos/)
   
     
 </div>
