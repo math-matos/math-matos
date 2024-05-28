@@ -5,11 +5,11 @@
 
 <p align="center">
 
-<p align="center"><i>I'm 19, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.</i></p>
+<p align="center"><i>I'm 20, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.</i></p>
 
 <ul>
     <li>👀 I’m currently in university graduating in Software engineering</li>
-    <li>🌱 studying Java Script and React</li>
+    <li>🌱 studying backend with Python (Flask, Django) also Node, and improving my React knowledge</li>
     <li>💬 Ask me about: tech, games, series</li>
    </ul>
 
