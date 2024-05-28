@@ -13,10 +13,10 @@
     <li>💬 Ask me about: tech, games, series</li>
    </ul>
 
-<h3 align="center">🎯 Goals 2023/24: </h3>
+<h3 align="center">🎯 Goals 2024/25: </h3>
     
 <ul>
-    <li>👨‍💻 achieve my first job!</li>
+    <li>👨‍💻 improve my carrer and growth as a influencer!</li>
     <li>🤝 Help people in open-source projects</li>
     <li>📈 Influence people to become the best they can be</li>
    </ul>
