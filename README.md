@@ -9,14 +9,14 @@
 
 <ul>
     <li>👀 I’m currently in university graduating in Software engineering</li>
-    <li>🌱 studying backend with Python (Flask, Django) also Node, and improving my React knowledge</li>
+    <li>🌱 studying backend with Python (Flask, Django) also Node (Fastify), and improving my React knowledge</li>
     <li>💬 Ask me about: tech, games, series</li>
    </ul>
 
 <h3 align="center">🎯 Goals 2024/25: </h3>
     
 <ul>
-    <li>👨‍💻 improve my carrer and growth as a influencer!</li>
+    <li>👨‍💻 improve tech knowledge and growth my lead skills!</li>
     <li>🤝 Help people in open-source projects</li>
     <li>📈 Influence people to become the best they can be</li>
    </ul>
