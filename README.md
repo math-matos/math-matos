@@ -5,18 +5,18 @@
 
 <p align="center">
 
-<p align="center"><i>I'm 20, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.</i></p>
+<p align="center"><i>I'm 22, from Sao José dos Campos and I'm on a journey to become one of the greateast developers.</i></p>
 
 <ul>
-    <li>👀 I’m currently in university graduating in Software engineering</li>
-    <li>🌱 studying backend with Python (Flask, Django) also Node (Fastify), and improving my React knowledge</li>
+    <li>👀 I’m currently at my last year at university graduating in Software engineering</li>
+    <li>🌱 studying backend with Python (Flask, Django) also Node (Fastify), improving my React knowledge and working at my Startup</li>
     <li>💬 Ask me about: tech, games, series</li>
    </ul>
 
-<h3 align="center">🎯 Goals 2024/25: </h3>
+<h3 align="center">🎯 Goals 2026/27: </h3>
     
 <ul>
-    <li>👨‍💻 improve tech knowledge and growth my lead skills!</li>
+    <li>👨‍💻 growth my tech company and my lead skills!</li>
     <li>🤝 Help people in open-source projects</li>
     <li>📈 Influence people to become the best they can be</li>
    </ul>
