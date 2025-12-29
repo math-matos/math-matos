@@ -31,18 +31,6 @@
   
     
 </div>
-
-<h3 align="center">📈 My Statistics </h3>
-
-<div align="center">
-
-| Principal Languages  |
-| ------------------- |
-| <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-matos&layout=compact&langs_count=7&theme=algolia"/> |
-
-
-  <a href="https://www.linkedin.com/in/mathmatos/">
-</div>
   
 </div>
   
